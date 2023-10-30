@@ -139,7 +139,7 @@ p {
 
 .tip-calculator_bill::before {
     content: "";
-    background-image: url('/images/icon-dollar.svg');
+    background-image: url('images/icon-dollar.svg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left center; 
@@ -215,7 +215,7 @@ p {
 
 .tip-calculator_people::before {
     content: "";
-    background-image: url(/images/icon-person.svg);
+    background-image: url(images/icon-person.svg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left center; 
