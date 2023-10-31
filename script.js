@@ -1,4 +1,4 @@
-
+"use strict"
 const billInput = document.querySelector("#bill");
 const peopleInput = document.querySelector("#people");
 const tipPerson = document.querySelector("#tip-person")
